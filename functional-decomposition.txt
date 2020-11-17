@@ -1,0 +1,38 @@
+wake up and go to school
+  turn off alarm, get out of bed and clean up
+  eat breakfast
+  put on uniform, choes, jacket...
+  hop on car and get to school
+  
+getting food from vending machine POV
+  get input from human
+  find the item and the corresponding price
+  collect money from human
+  calculate change
+  output item and change and reciept
+basic programming concepts
+  basic commands to find item
+  if statements to see if human paid enough
+  basic commands to calculate change
+  
+Spoon in gravy
+  fix
+    drinkn all the gravy
+    take out spoon
+  prevent
+    tie spoon to hand/fingers
+  the robot can suck all the gravy out and take out the spoon
+  
+ppl who can't park
+  draw the park slot around their car, instead of them parking themselves, we park them
+how to prevent this problem
+  have no parking slots in the first place
+robotic/software solution
+  get the parking area of the first car, and then arrange other parking spaces around it
+  
+people hogging seats
+  remove the baggage from the seats
+prevent
+  warn them that if they hog the seat there will be consequences
+technological solution
+  if the seat detects weight but no heat from a body, it will chuck the bag on the floor
