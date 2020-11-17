@@ -15,6 +15,14 @@ basic programming concepts
   if statements to see if human paid enough
   basic commands to calculate change
   
+cookie too big
+  get a bigger cup
+prevent
+  measure the size of cookie and measure the size of cup, if cup too small switch cups
+app solution
+  give out size of commonly bought cookies
+  take picture of cookie and cup, and an ai will decide if the cup is big enough
+  
 Spoon in gravy
   fix
     drinkn all the gravy
